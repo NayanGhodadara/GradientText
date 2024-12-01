@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="yellow_10">#1AFFEB3B</color>
+    <color name="blue">#2196F3</color>
+    <color name="blue_50">#2196F3</color>
+    <color name="blue_10">#1A2196F3</color>
+    <color name="purple">#8656FF</color>
+    <color name="purple_50">#8656FF</color>
+    <color name="purple_10">#1A8656FF</color>
+    <color name="green">#027E02</color>
+
+    <array name="gradient_bg">
+        <item>#802196F3</item>
+        <item>#808656FF</item>
+    </array>
+
+    <array name="gradientText">
+        <item>@color/purple</item>
+        <item>@color/green</item>
+        <item>@color/red</item>
+        <item>@color/blue</item>
+    </array>
+
+    <array name="gradientBorder">
+        <item>@color/purple</item>
+        <item>@color/green</item>
+        <item>@color/red</item>
+        <item>@color/blue</item>
+    </array>
+</resources>
