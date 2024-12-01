@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomTextView">
+        <attr name="bgOrientation" format="enum">
+            <enum name="vertical" value="1" />
+            <enum name="horizontal" value="0" />
+        </attr>
+
+        <attr name="textOrientation" format="enum">
+            <enum name="vertical" value="1" />
+            <enum name="horizontal" value="0" />
+        </attr>
+
+        <attr name="borderOrientation" format="enum">
+            <enum name="vertical" value="1" />
+            <enum name="horizontal" value="0" />
+        </attr>
+
+        <attr name="gradientBgColors" format="reference" />
+        <attr name="gradientTextColors" format="reference" />
+        <attr name="cornerRadius" format="dimension" />
+        <attr name="strokeColors" format="reference" />
+        <attr name="strokeWidth" format="dimension" />
+        <attr name="dashWidth" format="dimension" />
+        <attr name="dashGap" format="dimension" />
+    </declare-styleable>
+</resources>

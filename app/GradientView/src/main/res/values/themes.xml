@@ -1,0 +1,9 @@
+<resources>
+    <style name="Base.Theme.CustomTextView" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="colorSecondary">@color/black</item>
+    </style>
+
+    <style name="Theme.CustomTextView" parent="Base.Theme.CustomTextView" />
+</resources>
