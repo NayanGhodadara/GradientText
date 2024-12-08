@@ -16,7 +16,6 @@ import android.util.AttributeSet
 import android.view.animation.LinearInterpolator
 import androidx.appcompat.widget.AppCompatTextView
 
-
 @SuppressLint("Recycle")
 class CustomTextView @JvmOverloads constructor(
     context: Context,

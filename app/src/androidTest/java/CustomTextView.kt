@@ -1,5 +1,3 @@
-package com.example.gradientview
-
 import android.animation.ValueAnimator
 import android.annotation.SuppressLint
 import android.content.Context
@@ -16,7 +14,6 @@ import android.util.AttributeSet
 import android.view.animation.LinearInterpolator
 import androidx.appcompat.widget.AppCompatTextView
 import com.example.customtextview.R
-
 
 @SuppressLint("Recycle")
 class CustomTextView @JvmOverloads constructor(
