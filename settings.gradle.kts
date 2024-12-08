@@ -9,6 +9,7 @@ pluginManagement {
         }
         mavenCentral()
         gradlePluginPortal()
+
     }
 }
 dependencyResolutionManagement {
@@ -21,3 +22,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "CustomTextView"
 include(":app")
+include(":GradientText")
