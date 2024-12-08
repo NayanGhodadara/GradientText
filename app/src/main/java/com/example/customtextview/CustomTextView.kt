@@ -15,6 +15,7 @@ import android.graphics.drawable.LayerDrawable
 import android.util.AttributeSet
 import android.view.animation.LinearInterpolator
 import androidx.appcompat.widget.AppCompatTextView
+import com.example.customtextview.R
 
 
 @SuppressLint("Recycle")
