@@ -2,7 +2,7 @@ package com.example.customtextview
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.gradientview.CustomTextView
+import com.example.gradienttext.CustomTextView
 
 class MainActivity : AppCompatActivity() {
 
